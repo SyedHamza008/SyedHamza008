@@ -1,6 +1,6 @@
 ## Hi there! My Name is Syed Hamza and my Professional Details as follows👋
 
-🧠 Syed Hamza — AI & Full-Stack Developer
+🧠 Syed Hamza — AI & Full-Stack Developer <br>
 Python | Flask | FastAPI | React | Node.js | Tailwind | MongoDB | MySQL | AI/ML Enthusiast
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&size=23&center=true&vCenter=true&width=900&lines=AI+%2B+Full+Stack+Developer;Building+AI+Driven+Platforms+%26+Scalable+Web+Apps;FastAPI+%7C+Flask+%7C+React+%7C+Node.js+%7C+MongoDB;Constantly+Learning+LLMs%2C+NLP%2C+Vector+DBs;Open+for+Freelance+and+Remote+Roles" /> </p>
