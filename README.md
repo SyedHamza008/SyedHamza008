@@ -9,11 +9,62 @@ Python | Flask | FastAPI | React | Node.js | Tailwind | MongoDB | MySQL | AI/ML 
 
 I’m Syed Hamza, a self-taught AI + Full-Stack Developer passionate about building intelligent applications, scalable backend systems, and clean UI experiences.
 
-✔ Building an AI Personalized Learning System
-✔ Developing production-ready apps using Flask, FastAPI, React, and Node.js
-✔ Interested in EdTech, AI Tools, Automation Systems, and SaaS and more
-✔ Open for freelance projects and remote developer roles
-✔ Always learning: LLMs, NLP, Vector Databases, System Design, Programming Fundamentals
+✔ Building an AI Personalized Learning System <br>
+✔ Developing production-ready apps using Flask, FastAPI, React, and Node.js <br>
+✔ Interested in EdTech, AI Tools, Automation Systems, and SaaS and more <br>
+✔ Open for freelance projects and remote developer roles <br>
+✔ Always learning: LLMs, NLP, Vector Databases, System Design, Programming Fundamentals <br>
+
+🛠 Tech Stack & Tools
+🚀 Languages
+
+Python
+
+JavaScript
+
+⚙️ Backend
+
+Flask 
+
+FastAPI
+
+Node.js
+
+Express.js
+
+🎨 Frontend
+
+React.js
+
+Tailwind CSS
+
+Bootstrap
+
+HTML
+
+CSS
+
+🗄 Databases
+
+MongoDB
+
+MySQL
+
+Firebase
+
+🔧 Tools & DevOps
+
+Git & GitHub
+
+Postman
+
+Docker (beginner)
+
+VS Code
+
+Railway / Render (for backend deployment)
+
+Vercel (for frontend deployment)
 <!--
 **SyedHamza008/SyedHamza008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
