@@ -51,6 +51,8 @@ I’m Syed Hamza, a self-taught AI + Full-Stack Developer passionate about build
   Railway / Render (for backend deployment)<br>
   Vercel (for frontend deployment)
 
+Featured Projects Coming Soon
+
   📫 Let's Connect
 <p align="left"> <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a> <a href="mailto:syedhamzaalishah007@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/syed-hamza-ali-shah-hamdani-b57a3239b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
 <!--
