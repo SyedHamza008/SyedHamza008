@@ -1,4 +1,4 @@
-## Hi there! My Name is Syed Hamza and my Professional Details as follows👋
+<p style="color: #A6FFCE;">## Hi there! My Name is Syed Hamza and my Professional Details as follows👋</p>
 
 🧠 Syed Hamza — AI & Full-Stack Developer <br>
 Python | Flask | FastAPI | React | Node.js | Tailwind | MongoDB | MySQL | AI/ML Enthusiast
@@ -15,56 +15,41 @@ I’m Syed Hamza, a self-taught AI + Full-Stack Developer passionate about build
 ✔ Open for freelance projects and remote developer roles <br>
 ✔ Always learning: LLMs, NLP, Vector Databases, System Design, Programming Fundamentals <br>
 
-🛠 Tech Stack & Tools
+<P font-size="35">🛠 Tech Stack & Tools</P>
 🚀 Languages
 
-Python
-
-JavaScript
+  Python <br>
+  JavaScript
 
 ⚙️ Backend
 
-Flask 
-
-FastAPI
-
-Node.js
-
-Express.js
+  Flask <br>
+  FastAPI<br>
+  Node.js<br>
+  Express.js
 
 🎨 Frontend
 
-React.js
-
-Tailwind CSS
-
-Bootstrap
-
-HTML
-
-CSS
+  React.js<br>
+  Tailwind CSS<br>
+  Bootstrap<br>
+  HTML<br>
+  CSS
 
 🗄 Databases
 
-MongoDB
-
-MySQL
-
-Firebase
+  MongoDB<br>
+  MySQL<br>
+  Firebase
 
 🔧 Tools & DevOps
 
-Git & GitHub
-
-Postman
-
-Docker (beginner)
-
-VS Code
-
-Railway / Render (for backend deployment)
-
-Vercel (for frontend deployment)
+  Git & GitHub<br>
+  Postman<br>
+  Docker (beginner)<br>
+  VS Code<br>
+  Railway / Render (for backend deployment)<br>
+  Vercel (for frontend deployment)
 <!--
 **SyedHamza008/SyedHamza008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
