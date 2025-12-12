@@ -55,7 +55,12 @@ Featured Projects Coming Soon
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedHamza&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=SyedHamza&style=flat-square&color=blue" />
+  <!--
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  -->
 </p>
 
   📫 Let's Connect
