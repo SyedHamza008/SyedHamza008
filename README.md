@@ -53,6 +53,8 @@ I’m Syed Hamza, a self-taught AI + Full-Stack Developer passionate about build
 
 Featured Projects Coming Soon
 
+  📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedHamza008&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SyedHamza008&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHamza008&layout=compact&theme=tokyonight" /> </p>
   📫 Let's Connect
 <p align="left"> <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a> <a href="mailto:syedhamzaalishah007@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/syed-hamza-ali-shah-hamdani-b57a3239b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
 <!--
