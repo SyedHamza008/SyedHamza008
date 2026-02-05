@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm **Syed Hamza**
+##  Hi there! I'm **Syed Hamza**
 
 ### 🧠 <span style="color:#58A6FF">AI & Full-Stack Developer</span>  
 **Python | Flask | FastAPI | React | Node.js | Tailwind | MongoDB | MySQL | AI/ML Enthusiast**
@@ -23,29 +23,29 @@ I’m **Syed Hamza**, a self-taught **AI + Full-Stack Developer** passionate abo
 
 ## 🛠 <span style="color:#A371F7">Tech Stack & Tools</span>
 
-### 🚀 **Languages**
+###  **Languages**
 - Python  
 - JavaScript  
 
-### ⚙️ **Backend**
+###  **Backend**
 - Flask  
 - FastAPI  
 - Node.js  
 - Express.js  
 
-### 🎨 **Frontend**
+### **Frontend**
 - React.js  
 - Tailwind CSS  
 - Bootstrap  
 - HTML  
 - CSS  
 
-### 🗄 **Databases**
+### **Databases**
 - MongoDB  
 - MySQL  
 - Firebase  
 
-### 🔧 **Tools & DevOps**
+### **Tools & DevOps**
 - Git & GitHub  
 - Postman  
 - Docker *(Beginner)*  
